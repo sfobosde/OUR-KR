@@ -1,0 +1,7 @@
+
+route:01 type:A start:A finish:D time:15
+route:02 type:M start:D finish:E time:10
+route:03 type:T start:E finish:F time:13
+route:04 type:A start:A finish:D time:13
+route:05 type:M start:D finish:E time:10
+route:06 type:T start:E finish:F time:12
